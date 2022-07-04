@@ -1,0 +1,23 @@
+{
+  "name": "backend_zas_notebook",
+  "version": "1.0.0",
+  "description": "zas notebook is a notebook for notes taken on cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaeemAftabSiddiqui/backend_zas_notebook.git"
+  },
+  "author": "ZASGIS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaeemAftabSiddiqui/backend_zas_notebook/issues"
+  },
+  "homepage": "https://github.com/ZaeemAftabSiddiqui/backend_zas_notebook#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.2"
+  }
+}
