@@ -1,6 +1,6 @@
 ﻿# backend_zas_notebook Website
 
-Welcome to the Note Taking Website GitHub repository! This project provides a user-friendly web interface for taking and organizing notes.
+Welcome to the backend of Note Taking Website GitHub repository! This project provides a user-friendly web interface for taking and organizing notes.
 Features
 
     CRUD: Create, read, edit(update) and delete notes
