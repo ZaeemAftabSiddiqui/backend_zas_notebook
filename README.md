@@ -34,7 +34,7 @@ Requirements
 
 Installation
 
-git clone https://github.com/username/note-taking-website.git
+git clone https://github.com/ZaeemAftabSiddiqui/backend_zas_notebook
 
 cd note-taking-website
 
@@ -50,7 +50,7 @@ mongod
 
 npm start
 
-This will start a local development server on port 3000. You can access the website at http://localhost:3000.
+This will start a local development server on port 5000. You can access the website at http://localhost:5000.
 Deployment
 
 This project can be easily deployed to a hosting service such as Heroku or AWS.
